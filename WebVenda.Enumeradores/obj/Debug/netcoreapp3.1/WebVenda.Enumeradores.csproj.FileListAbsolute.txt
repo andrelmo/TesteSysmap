@@ -1,0 +1,8 @@
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\bin\Debug\netcoreapp3.1\WebVenda.Enumeradores.deps.json
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\bin\Debug\netcoreapp3.1\WebVenda.Enumeradores.dll
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\bin\Debug\netcoreapp3.1\WebVenda.Enumeradores.pdb
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\obj\Debug\netcoreapp3.1\WebVenda.Enumeradores.AssemblyInfoInputs.cache
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\obj\Debug\netcoreapp3.1\WebVenda.Enumeradores.AssemblyInfo.cs
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\obj\Debug\netcoreapp3.1\WebVenda.Enumeradores.csproj.CoreCompileInputs.cache
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\obj\Debug\netcoreapp3.1\WebVenda.Enumeradores.dll
+C:\Teste\SysMap\WebVenda\WebVenda.Enumeradores\obj\Debug\netcoreapp3.1\WebVenda.Enumeradores.pdb

@@ -1,0 +1,12 @@
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\bin\Debug\netcoreapp3.1\WebVenda.Dto.deps.json
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\bin\Debug\netcoreapp3.1\WebVenda.Dto.dll
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\bin\Debug\netcoreapp3.1\WebVenda.Dto.pdb
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\bin\Debug\netcoreapp3.1\WebVenda.Enumeradores.dll
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\bin\Debug\netcoreapp3.1\WebVenda.Enumeradores.pdb
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.csprojAssemblyReference.cache
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.AssemblyInfoInputs.cache
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.AssemblyInfo.cs
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.csproj.CoreCompileInputs.cache
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.csproj.CopyComplete
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.dll
+C:\Teste\SysMap\WebVenda\WebVenda.Dto\obj\Debug\netcoreapp3.1\WebVenda.Dto.pdb
